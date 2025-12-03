@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "絆",
+  "base_artist": "Kazuya Kamenashi",
+  "createdAt": "2025-12-03T09:48:58.664066Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絆-kizunairo-色 Rock Style",
+      "artist": "Veil",
+      "has_synced": true,
+      "path": "select/01_絆-kizunairo-色_Rock_Style_Veil.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "絆",
+      "artist": "CHARCOAL FILTER",
+      "has_synced": false,
+      "path": "select/02_絆_CHARCOAL_FILTER.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "絆",
+      "artist": "Le Couple",
+      "has_synced": false,
+      "path": "select/03_絆_Le_Couple.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "絆",
+      "artist": "miu-clips",
+      "has_synced": true,
+      "path": "select/04_絆_miu-clips.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BondS ～絆～ (magnya mix)",
+      "artist": "アンティック-珈琲店-",
+      "has_synced": true,
+      "path": "select/05_BondS_~絆~_(magnya_mix)_アンティック-珈琲店-.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "絆",
+      "artist": "エレファントカシマシ",
+      "has_synced": true,
+      "path": "select/06_絆_エレファントカシマシ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "絆",
+      "artist": "ヒプノシスマイク -D.R.B- Rhyme Anima (Division All Stars)",
+      "has_synced": true,
+      "path": "select/07_絆_ヒプノシスマイク_-D.R.B-_Rhyme_Anima_(Division_All_Stars).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "絆",
+      "artist": "GALNERYUS",
+      "has_synced": true,
+      "path": "select/08_絆_GALNERYUS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "絆",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/09_絆_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "絆",
+      "artist": "Elephant Kashimashi",
+      "has_synced": false,
+      "path": "select/10_絆_Elephant_Kashimashi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絆",
+      "artist": "亀梨和也",
+      "has_synced": false,
+      "path": "select/pl_01_絆_亀梨和也.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "絆",
+      "artist": "亀梨和也",
+      "has_synced": false,
+      "path": "select/pl_02_絆_亀梨和也.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "絆",
+      "artist": "亀梨和也",
+      "has_synced": false,
+      "path": "select/pl_03_絆_亀梨和也.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "絆",
+      "artist": "亀梨和也",
+      "has_synced": false,
+      "path": "select/pl_04_絆_亀梨和也.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "絆",
+      "artist": "亀梨和也",
+      "has_synced": false,
+      "path": "select/pl_05_絆_亀梨和也.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "絆",
+      "artist": "亀梨和也",
+      "has_synced": false,
+      "path": "select/pl_06_絆_亀梨和也.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "絆",
+      "artist": "亀梨和也",
+      "has_synced": false,
+      "path": "select/pl_07_絆_亀梨和也.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "絆",
+      "artist": "亀梨和也",
+      "has_synced": false,
+      "path": "select/pl_08_絆_亀梨和也.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "絆",
+      "artist": "亀梨和也",
+      "has_synced": false,
+      "path": "select/pl_09_絆_亀梨和也.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "絆",
+      "artist": "亀梨和也",
+      "has_synced": false,
+      "path": "select/pl_10_絆_亀梨和也.txt"
+    }
+  ]
+}
